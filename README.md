@@ -18,6 +18,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+### How did I get here?
+
+I owe all thanks to [Dubem Izuorah](https://github.com/dubem-design).
+
 ---
 
 ### :man_technologist: About Me :
@@ -59,6 +63,6 @@ I am a Software Developer
 
 </div>
 
-## Wakatime Stats:
+<!-- ## Wakatime Stats:
 
-[![IzuchukwuSamson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats)
+[![IzuchukwuSamson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats) -->
