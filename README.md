@@ -23,17 +23,17 @@
 ### :man_technologist: About Me :
 
 I am a Software Developer
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve coding problems read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -50,15 +50,15 @@ I am a Software Developer
 ---
 
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IzuchukwuSamson&theme=dark&hide_border=true&type=png)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats)
-  
-      
-</div>
 
 </div>
 
+</div>
 
 ## Wakatime Stats:
+
 [![IzuchukwuSamson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats)
