@@ -32,7 +32,7 @@ I am a Software Developer
 
 - :zap: In my free time, I solve coding problems read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/izuchukwu-samson-21bb60144/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/izuchukwu-samson-21bb60144/)
 
 ---
 
