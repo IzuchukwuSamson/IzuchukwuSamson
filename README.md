@@ -63,7 +63,7 @@ I am a Software Developer
 
 </div>
 
-<!-- ## Wakatime Stats:
+## Wakatime Stats:
 
-[![IzuchukwuSamson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats) -->
-[![wakatime](https://wakatime.com/badge/user/104bf9e5-b478-46ba-bcaa-77bf1d573ae2.svg)](https://wakatime.com/@104bf9e5-b478-46ba-bcaa-77bf1d573ae2)
+[![IzuchukwuSamson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![wakatime](https://wakatime.com/badge/user/104bf9e5-b478-46ba-bcaa-77bf1d573ae2.svg)](https://wakatime.com/@104bf9e5-b478-46ba-bcaa-77bf1d573ae2) -->
