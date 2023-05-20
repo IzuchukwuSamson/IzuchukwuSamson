@@ -65,5 +65,19 @@ I am a Software Developer
 
 ## Wakatime Stats:
 
-[![IzuchukwuSamson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![wakatime](https://wakatime.com/badge/user/104bf9e5-b478-46ba-bcaa-77bf1d573ae2.svg)](https://wakatime.com/@104bf9e5-b478-46ba-bcaa-77bf1d573ae2) -->
+name: Work Stats Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 2 hours
+    - cron: "0 */2 * * *"
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
