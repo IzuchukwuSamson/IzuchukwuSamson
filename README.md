@@ -55,16 +55,16 @@ I am a Software Developer
 <p align="center">
 ### :fire: My Stats :
 </p>
-<!-- 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IzuchukwuSamson&theme=dark&hide_border=true&type=png)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats)
 
 
- <span align="left">
+<!--  <span align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=IzuchukwuSamson&&show_icons=true&title_color=D3D3D3&icon_color=722F37&text_color=D3D3D3&bg_color=000000&border_color=000000"> &nbsp;
     <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godstrump&layout=default&card_width=450&theme=vision-friendly-dark&border_color=000000">
-</span>  
+</span>   -->
 
 
 <p align="center">
