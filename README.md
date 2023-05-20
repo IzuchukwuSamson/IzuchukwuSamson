@@ -68,7 +68,7 @@ I am a Software Developer
 
  <span align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=IzuchukwuSamson&&show_icons=true&title_color=D3D3D3&icon_color=722F37&text_color=D3D3D3&bg_color=000000&border_color=000000"> &nbsp;
-    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godstrump&layout=default&card_width=450&theme=vision-friendly-dark&border_color=000000">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzuchukwuSamson&layout=default&card_width=700&theme=vision-friendly-dark&border_color=000000">
 </span>  
 
 
