@@ -75,6 +75,3 @@ I am a Software Developer
 
 
 
-## Wakatime Stats:
-
-
