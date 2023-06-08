@@ -29,7 +29,6 @@ I am a Software Developer
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/izuchukwu-samson-21bb60144/)
 
----
 
 ### How did I get here?
 
