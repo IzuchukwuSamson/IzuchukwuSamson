@@ -66,7 +66,7 @@ I owe all thanks to [Dubem Izuorah](https://github.com/dubem-design).
     </a>
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ---
 <!-- <span align="left">
