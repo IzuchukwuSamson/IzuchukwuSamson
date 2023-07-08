@@ -15,7 +15,7 @@
 </h1>
 </div>
     <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<!--   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> -->
 </div>
 
 ---
@@ -66,14 +66,14 @@ I owe all thanks to [Dubem Izuorah](https://github.com/dubem-design).
     </a>
 </p>
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<!-- <span align="left">
+<span align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=IzuchukwuSamson&&show_icons=true&title_color=D3D3D3&icon_color=722F37&text_color=D3D3D3&bg_color=000000&border_color=000000"> &nbsp;
     <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzuchukwuSamson&layout=default&card_width=700&theme=vision-friendly-dark&border_color=000000">
 </span>  
--->
+
 
 
 
