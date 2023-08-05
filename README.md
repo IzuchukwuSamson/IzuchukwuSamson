@@ -48,16 +48,17 @@ I owe all thanks to [Dubem Izuorah](https://github.com/dubem-design).
   
   
 ---
-<p align="center">
+<!-- <p align="center">
 ### :fire: My Stats :
 </p>
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IzuchukwuSamson&theme=dark&hide_border=true&type=png)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IzuchukwuSamson&theme=dark&hide_border=true&type=png)](https://git.io/streak-stats) 
   <p align="center">
     <a>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=IzuchukwuSamson&theme=dark&hide_border=true&background=000000"/>
     </a>
 </p>
+-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IzuchukwuSamson)](https://github.com/anuraghazra/github-readme-stats) ]-->
 
