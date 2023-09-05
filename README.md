@@ -32,11 +32,7 @@ I am a Software Developer
 
 ---
 
-### How did I get here?
 
-I owe all thanks to [Dubem Izuorah](https://github.com/dubem-design).
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
